@@ -18,3 +18,9 @@ background-size: cover;
 overflow: hidden;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
